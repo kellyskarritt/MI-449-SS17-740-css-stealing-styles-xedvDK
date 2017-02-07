@@ -1,0 +1,92 @@
+.name {
+  padding-top: 200px;
+  text-align: center;
+  font-size: 70px;
+  font-family: monospace;
+  padding-bottom: 20px;
+}
+
+.G {
+  color: red;
+}
+
+.G:hover {
+  color: darkred;
+}
+
+.A {
+  color: orange;
+}
+
+.A:hover {
+  color: darkorange;
+}
+
+.L {
+  color: yellow;
+}
+
+.L:hover {
+  color: lightyellow;
+}
+
+.A2 {
+  color: green;
+}
+
+.A2:hover {
+  color: lightgreen;
+}
+
+.X {
+  color: blue;
+}
+
+.X:hover {
+  color: darkblue;
+}
+
+.Y {
+  color: purple;
+}
+
+.Y:hover {
+  color: mediumpurple;
+}
+
+input {
+  width: 60%;
+  height: 38px;
+  padding: 6px 10px;
+  background-color: #fff;
+  border: 1px solid #d4dada;
+  border-radius: 3px;
+  box-shadow: none;
+  vertical-align: bottom;
+  display: block;
+  margin: auto;
+}
+
+.button {
+  display: block;
+  margin: auto;
+  white-space: nowrap;
+  height: 40px;
+  line-height: 40px;
+  padding: 0 14px;
+  box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08);
+  background: #fff;
+  border-radius: 4px;
+  border-color: none;
+  border: none;
+  font-size: 15px;
+  font-weight: 600;
+  text-transform: uppercase;
+  color: #6772e5;
+  text-decoration: none;
+}
+
+.button:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 7px 14px rgba(50, 50, 93, 0.1), 0 3px 6px rgba(0, 0, 0, 0.08);
+}
