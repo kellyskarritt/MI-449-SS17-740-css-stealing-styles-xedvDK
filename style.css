@@ -7,10 +7,6 @@
 }
 
 .red {
-  color: red;
-}
-
-.red:hover {
   color: #c62d48;
 }
 
@@ -18,39 +14,19 @@
   color: orange;
 }
 
-.orange:hover {
-  color: darkorange;
-}
-
 .yellow {
-  color: yellow;
-}
-
-.yellow:hover {
   color: #c6ad00;
 }
 
 .green {
-  color: green;
-}
-
-.green:hover {
   color: #98c379;
 }
 
 .blue {
-  color: blue;
-}
-
-.blue:hover {
   color: #56b6c2;
 }
 
 .purple {
-  color: purple;
-}
-
-.purple:hover {
   color: #b400b9;
 }
 
