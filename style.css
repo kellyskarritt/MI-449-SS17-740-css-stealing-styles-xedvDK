@@ -6,24 +6,48 @@
   padding-bottom: 20px;
 }
 
+.red {
+  color: red;
+}
+
 .red:hover {
   color: #c62d48;
+}
+
+.orange {
+  color: orange;
 }
 
 .orange:hover {
   color: darkorange;
 }
 
+.yellow {
+  color: yellow;
+}
+
 .yellow:hover {
   color: #c6ad00;
+}
+
+.green {
+  color: green;
 }
 
 .green:hover {
   color: #98c379;
 }
 
+.blue {
+  color: blue;
+}
+
 .blue:hover {
   color: #56b6c2;
+}
+
+.purple {
+  color: purple;
 }
 
 .purple:hover {
@@ -49,8 +73,10 @@ input:focus {
 }
 
 .button {
+  margin-top: 20px;
   display: block;
-  margin: auto;
+  margin-left: auto;
+  margin-right: auto;
   white-space: nowrap;
   height: 40px;
   line-height: 40px;
@@ -77,8 +103,8 @@ input:focus {
 }
 
 .button:active {
-  color: #555abf;
-  background-color: #f6f9fc;
+  color: #7795f8;
+  background-color: #fff;
   transform: translateY(1px);
   box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08);
 }
